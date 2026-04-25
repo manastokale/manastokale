@@ -39,7 +39,7 @@ Cooking, badminton, painting, and video games.
 
 - Email: `manastokale@gmail.com`
 - LinkedIn: `https://www.linkedin.com/in/manas-tokale/`
-- Portfolio: `add-your-portfolio-link-here`
+- Portfolio: `https://manastokale.github.io/portfolio/`
 
 
 ### ✍️ Random Dev Quote
